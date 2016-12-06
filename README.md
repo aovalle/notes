@@ -1,6 +1,6 @@
 # notes
 
-Papers from ICLR 2017 to save once they have a proper website or citation page.
+Papers to save once they have a proper website or citation page.
 
 ##Reinforcement Learning
 
